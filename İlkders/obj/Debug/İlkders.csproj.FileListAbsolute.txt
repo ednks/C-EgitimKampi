@@ -1,0 +1,7 @@
+C:\Users\Edanur\source\repos\Ilkders\İlkders\bin\Debug\İlkders.exe.config
+C:\Users\Edanur\source\repos\Ilkders\İlkders\bin\Debug\İlkders.exe
+C:\Users\Edanur\source\repos\Ilkders\İlkders\bin\Debug\İlkders.pdb
+C:\Users\Edanur\source\repos\Ilkders\İlkders\obj\Debug\İlkders.csproj.AssemblyReference.cache
+C:\Users\Edanur\source\repos\Ilkders\İlkders\obj\Debug\İlkders.csproj.CoreCompileInputs.cache
+C:\Users\Edanur\source\repos\Ilkders\İlkders\obj\Debug\İlkders.exe
+C:\Users\Edanur\source\repos\Ilkders\İlkders\obj\Debug\İlkders.pdb

@@ -1,0 +1,7 @@
+C:\Users\Edanur\source\repos\Ilkders\İkinciDers\bin\Debug\İkinciDers.exe.config
+C:\Users\Edanur\source\repos\Ilkders\İkinciDers\bin\Debug\İkinciDers.exe
+C:\Users\Edanur\source\repos\Ilkders\İkinciDers\bin\Debug\İkinciDers.pdb
+C:\Users\Edanur\source\repos\Ilkders\İkinciDers\obj\Debug\İkinciDers.csproj.AssemblyReference.cache
+C:\Users\Edanur\source\repos\Ilkders\İkinciDers\obj\Debug\İkinciDers.csproj.CoreCompileInputs.cache
+C:\Users\Edanur\source\repos\Ilkders\İkinciDers\obj\Debug\İkinciDers.exe
+C:\Users\Edanur\source\repos\Ilkders\İkinciDers\obj\Debug\İkinciDers.pdb
